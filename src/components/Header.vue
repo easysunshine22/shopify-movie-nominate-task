@@ -1,10 +1,10 @@
 <template>
   <header>
     <router-link to="/">
-      <div class="logo">
+      <!-- <div class="logo">
         <img src="../assets/shopifyLogo.png" alt="" />
-        <h1><span>The </span>Shoppies Test</h1>
-      </div>
+        <h1><span>The </span>Shoppies</h1>
+      </div> -->
     </router-link>
   </header>
 </template>
