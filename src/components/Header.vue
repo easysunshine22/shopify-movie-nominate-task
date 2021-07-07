@@ -2,8 +2,8 @@
   <header>
     <router-link to="/">
       <div class="logo">
-        <img src="../assets/shopifyLogo.png" alt="">
-      <h1><span>The </span>Shoppies</h1>
+        <img src="../assets/shopifyLogo.png" alt="" />
+        <h1><span>The </span>Shoppies</h1>
       </div>
     </router-link>
   </header>
@@ -20,7 +20,7 @@ export default {
 </script>
 
 <style scoped>
-header{
+header {
   display: flex;
   align-items: center;
   padding: 10px 16px;
@@ -29,21 +29,20 @@ header{
   /* margin-bottom: 20px; */
 }
 
-h1{
+h1 {
   color: #fff;
   font-size: 28px;
 }
 
-span{
+span {
   color: #42bbb3;
 }
-.logo{
+.logo {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.logo img{
+.logo img {
   width: 75px;
 }
-
 </style>
