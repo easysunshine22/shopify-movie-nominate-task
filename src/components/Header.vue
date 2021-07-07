@@ -13,7 +13,7 @@
 export default {
   data() {
     return {
-
+      //   menu: ["Home", "About", "Gallery", "Contect"],
     };
   },
 };
